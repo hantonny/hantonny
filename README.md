@@ -2,6 +2,8 @@
 
 Eu sou um desenvolvedor apaixonado por front-end e sempre em busca de novos desafios.
 
+[Visite meu blog](https://portifolio-hantonny.vercel.app/)
+
 ## Minhas Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hantonny&show_icons=true&theme=radical)
 

@@ -7,3 +7,7 @@ Eu sou um desenvolvedor apaixonado por front-end e sempre em busca de novos desa
 
 ## Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hantonny&layout=compact&theme=radical)
+
+
+![Snake animation](https://github.com/SEU_NOME/hantonny/blob/output/github-contribution-grid-snake.svg)
+
